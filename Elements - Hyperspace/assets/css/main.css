@@ -2602,6 +2602,11 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+		
+		.image.small img {
+				width: 25%;
+				height: 25%;
+		}
 
 		.image.main {
 			display: block;
