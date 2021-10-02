@@ -11,6 +11,3 @@ Public address of the key:   0x7aD928e765279a95E6275DAcE5a86E26a59FadC3
 Path of the secret key file: node2\keystore\UTC--2021-09-27T23-30-21.170816200Z--7ad928e765279a95e6275dace5a86e26a59fadc3
 
 0x090105337c71f177fe46f9aacfd98abdd53fb50357aceced12dec0fc14be91e0
-
-{
-"address":"
